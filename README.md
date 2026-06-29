@@ -50,6 +50,7 @@ The report explains:
 
 DB02-Database-Normalization/
 │
+
 ├── README.md
 
 ├── LICENSE
