@@ -51,12 +51,14 @@ The report explains:
 DB02-Database-Normalization/
 │
 ├── README.md
-├── LICENSE
-├── normalization.sql
-├── ER_Diagram.png
-├── Task_ID_DB02_Purushottam_Rakesh_Normalization_Report.docx
-└── Task_ID_DB02_Purushottam_Rakesh_Normalization_Report.pdf
 
+├── LICENSE
+
+├── normalization.sql
+
+├── ER_Diagram.png
+
+├── Task_ID_DB02_Purushottam_Rakesh_Normalization_Report.docx
 # Database Anomalies
 
 - Update Anomaly
