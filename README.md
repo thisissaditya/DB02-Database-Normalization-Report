@@ -4,7 +4,7 @@
 
 ### Intern Details
 
-- **Intern Name:** Purushottam Rakesh
+- **Intern Name:** Purshottam Rakesh
 - **Task ID:** DB02
 - **Supervisor:** Kashish Gajbhiye
 - **Topic:** Database Anomalies and Normalization
